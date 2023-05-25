@@ -1,0 +1,19 @@
+body {
+    background-color: blue;
+    font-size: 3
+    
+    0px;
+ }
+
+ p {
+    font-size:1.5rem;
+ }
+
+ .nome {
+    background-color: azure;
+    width: 200px;
+    height: 200px;
+    width:min-content;
+    background-image: url('https://pbs.twimg.com/profile_images/1702823532/louis-vuitton-logo_400x400.jpg');
+    background-size: 100%;
+ }
